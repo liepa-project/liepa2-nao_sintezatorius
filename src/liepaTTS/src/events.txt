@@ -1,0 +1,25 @@
+callback(std::string eventName, int value, std::string subscriberIdentifier)
+
+"ALTextToSpeech/CurrentBookMark"
+"ALTextToSpeech/PositionOfCurrentWord"
+
+
+callback(std::string eventName, std::string value, std::string subscriberIdentifier)
+
+"ALTextToSpeech/CurrentSentence"
+"ALTextToSpeech/CurrentWord"
+
+
+callback(std::string eventName, AL::ALValue value, std::string subscriberIdentifier)
+[idOfConcernedTask, status]
+idOfConcernedTask is the ID of the task concerned by the event.
+status can be “enqueued”, “started”, “thrown”, “stopped” or “done”.
+
+"ALTextToSpeech/Status"
+
+
+callback(std::string eventName, bool value, std::string subscriberIdentifier)
+
+"ALTextToSpeech/TextStarted"
+"ALTextToSpeech/TextDone"
+"ALTextToSpeech/TextInterrupted"

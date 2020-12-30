@@ -1,0 +1,5 @@
+<project version="3">
+  <qibuild name="liepaTTS">
+      <depends runtime="true" buildtime="true" names="libnaoqi" />
+  </qibuild>
+</project>
