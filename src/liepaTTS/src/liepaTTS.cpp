@@ -4,13 +4,13 @@
  * Projektas LIEPA-2, 2017 - 2020 m. (https://liepa2.raštija.lt)
  * Vilniaus universitetas (https://www.vu.lt)
  * 
- * @file pijausmodule.cpp
+ * @file liepaTTS.cpp
  * 
  * @author dr. Margarita Beniušė (margarita.beniuse@mif.vu.lt), dr. Pijus Kasparaitis (pkasparaitis@yahoo.com)
  * 2020 12 28
  */
 
-#include "pijausmodule.h"
+#include "liepaTTS.h"
 #include "LithUSS.h"
 #include <qi/log.hpp>
 #include <stdio.h>

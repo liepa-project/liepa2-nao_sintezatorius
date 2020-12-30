@@ -1,0 +1,58 @@
+Replace:\r\n@\n@
+Replace:\r@\n@
+Replace:..@.@
+Replace:°C@° Cel~sijaus@
+Replace:°F@° Fa~renheito@
+Replace:prof.@pro`f @
+Replace:doc.@do`c @
+Replace:dr.@dë-e`r @
+Replace:http://@hàtëtëpë~ @
+RomanNumerals:\nI.@\nII.@
+RomanNumerals:\nI)@\nII)@
+RomanNumerals:\nV.@\nIV.@
+RomanNumerals:\nV)@\nIV)@
+Time:HH:MM@
+Time:H:MM@
+Date:YYYY m. {MONTHS} QQ d.@//2012 m. birþelio 14 d.
+Date:YYYY m. {MONTHS} Q d.@//2012 m. birþelio 4 d.
+Date:YYYY-MM-QQ@//2012-06-14
+Date:YYYY MM QQ@//2012 06 14
+AbbSeparateWord:inicialai1.txt@
+ReplaceWithFile:inicialai2.txt@
+/////////DigitsPattern:Nr. LT(D[2-2])( [1-1])(D[3-4])( [1-1])(D[3-4])( [1-1])(D[4-4])( [1-1])(D[4-4])(W[1-1])@
+/////////DigitsPattern:, (D[5-6])(W[1-1])@
+AbbSeparateWord:abb.txt@
+DigitsPattern:(L[2-3])(W[1-1])@
+Replace:.)@)@
+//ReadByLetter:{.?!}@checkForNoSpaceAfter@
+DigitsPattern:(S[1-3])(x[1-1])(S[3-3])(x[1-1])(S[3-3])(x[1-1])(S[3-3])(W[1-1])@
+DigitsPattern:(S[1-3])(x[1-1])(S[3-3])(x[1-1])(S[3-3])(W[1-1])@
+DigitsPattern:(S[1-3])(x[1-1])(S[3-3])(W[1-1])@
+Numbers:@
+AbbSeparateWord:matvnt.txt@
+ReplaceWithFile:removetags.txt@
+ReplaceWithFile:skaitm.txt@
+AbbSeparateWord:balses.txt@
+///////ReadByLetter:{#&*/\=+©®}@
+Replace:/@ @
+Replace:\@ @
+Replace:'@@
+ReadByLetter:WordNoVowels@
+Replace: - @ – @
+Phrases:@
+Replace:(@@
+Replace:[@@
+Replace:{@@
+Replace:)@@
+Replace:]@@
+Replace:}@@
+Replace:"@@
+Replace:„@@
+Replace:“@@
+Replace:\n @\n@
+Replace: \n@\n@
+Replace:\t@ @
+Replace:  @ @
+Replace: .@.@
+Replace: ,@,@
+ToUPPERCASE:@

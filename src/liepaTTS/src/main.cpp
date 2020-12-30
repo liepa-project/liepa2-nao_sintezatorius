@@ -12,7 +12,7 @@
 
 #include <qi/applicationsession.hpp>
 #include <boost/shared_ptr.hpp>
-#include "pijausmodule.h"
+#include "liepaTTS.h"
 
 int main(int argc, char* argv[])
 {

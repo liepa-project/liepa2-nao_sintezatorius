@@ -1,0 +1,360 @@
+#VnsV# mi@MYLIA`@
+#VnsK# mi@MY~LIOs@
+#VnsN# mi@MY~LIAI@
+#VnsG# mi@MY~LIÀ@
+#VnsI# mi@MYLIA`@
+#DgsV# mi@MY~LIOS@
+#DgsK# mi@MY~LIØ@
+#DgsN# mi@MY~LIOMS@
+#DgsG# mi@MYLIA`S@
+#DgsI# mi@MY~LIOMIS@
+#VnsV# ft@PËDA`@
+#VnsK# ft@PËDO~s@
+#VnsN# ft@PË^DAI@
+#VnsG# ft@PË^DÀ@
+#VnsI# ft@PË^DA@
+#DgsV# ft@PË^DOS@
+#DgsK# ft@PËDØ~@
+#DgsN# ft@PËDO^MS@
+#DgsG# ft@PË^DAS@
+#DgsI# ft@PËDOMI`S@
+#VnsV# yd@JA^RDAS@
+#VnsK# yd@JA^RDO@
+#VnsN# yd@JA^RDUI@
+#VnsG# yd@JA^RDÀ@
+#VnsI# yd@JA^RDU@
+#DgsV# yd@JA^RDAI@
+#DgsK# yd@JA^RDØ@
+#DgsN# yd@JA^RDAMS@
+#DgsG# yd@JA^RDUS@
+#DgsI# yd@JA^RDAIS@
+#VnsV# m/s@ME`TRAS PER SEKU^NDÆ@
+#VnsK# m/s@ME`TRO PER SEKU^NDÆ@
+#VnsN# m/s@ME`TRUI PER SEKU^NDÆ@
+#VnsG# m/s@ME`TRÀ PER SEKU^NDÆ@
+#VnsI# m/s@METRU` PER SEKU^NDÆ@
+#DgsV# m/s@ME`TRAI PER SEKU^NDÆ@
+#DgsK# m/s@ME`TRØ PER SEKU^NDÆ@
+#DgsN# m/s@ME`TRAMS PER SEKU^NDÆ@
+#DgsG# m/s@METRU`S PER SEKU^NDÆ@
+#DgsI# m/s@ME`TRAIS PER SEKU^NDÆ@
+#VnsV# mën.@MË^NESIS@
+#VnsK# mën.@MË^NESIO@
+#VnsN# mën.@MË^NESIUI@
+#VnsG# mën.@MË^NESÁ@
+#VnsI# mën.@MË^NESIU@
+#DgsV# mën.@MË^NESIAI@
+#DgsK# mën.@MË^NESIØ@
+#DgsN# mën.@MË^NESIAMS@
+#DgsG# mën.@MË^NESIUS@
+#DgsI# mën.@MË^NESIAIS@
+#VnsV# m.@ME~TAS@
+#VnsK# m.@ME~TO@
+#VnsN# m.@ME~TUI@
+#VnsG# m.@ME~TÀ@
+#VnsI# m.@METU`@
+#DgsV# m.@ME~TAI@
+#DgsK# m.@ME~TØ@
+#DgsN# m.@ME~TAMS@
+#DgsG# m.@METU`S@
+#DgsI# m.@ME~TAIS@
+#VnsV# m@ME`TRAS@
+#VnsK# m@ME`TRO@
+#VnsN# m@ME`TRUI@
+#VnsG# m@ME`TRÀ@
+#VnsI# m@METRU`@
+#DgsV# m@ME`TRAI@
+#DgsK# m@ME`TRØ@
+#DgsN# m@ME`TRAMS@
+#DgsG# m@METRU`S@
+#DgsI# m@ME`TRAIS@
+#VnsV# km/h@KILOME`TRAS PER VA~LANDÀ@
+#VnsK# km/h@KILOME`TRO PER VA~LANDÀ@
+#VnsN# km/h@KILOME`TRUI PER VA~LANDÀ@
+#VnsG# km/h@KILOME`TRÀ PER VA~LANDÀ@
+#VnsI# km/h@KILOMETRU` PER VA~LANDÀ@
+#DgsV# km/h@KILOME`TRAI PER VA~LANDÀ@
+#DgsK# km/h@KILOME`TRØ PER VA~LANDÀ@
+#DgsN# km/h@KILOME`TRAMS PER VA~LANDÀ@
+#DgsG# km/h@KILOMETRU`S PER VA~LANDÀ@
+#DgsI# km/h@KILOME`TRAIS PER VA~LANDÀ@
+#VnsV# km/val.@KILOME`TRAS PER VA~LANDÀ@
+#VnsK# km/val.@KILOME`TRO PER VA~LANDÀ@
+#VnsN# km/val.@KILOME`TRUI PER VA~LANDÀ@
+#VnsG# km/val.@KILOME`TRÀ PER VA~LANDÀ@
+#VnsI# km/val.@KILOMETRU` PER VA~LANDÀ@
+#DgsV# km/val.@KILOME`TRAI PER VA~LANDÀ@
+#DgsK# km/val.@KILOME`TRØ PER VA~LANDÀ@
+#DgsN# km/val.@KILOME`TRAMS PER VA~LANDÀ@
+#DgsG# km/val.@KILOMETRU`S PER VA~LANDÀ@
+#DgsI# km/val.@KILOME`TRAIS PER VA~LANDÀ@
+#VnsV# km@KILOME`TRAS@
+#VnsK# km@KILOME`TRO@
+#VnsN# km@KILOME`TRUI@
+#VnsG# km@KILOME`TRÀ@
+#VnsI# km@KILOMETRU`@
+#DgsV# km@KILOME`TRAI@
+#DgsK# km@KILOME`TRØ@
+#DgsN# km@KILOME`TRAMS@
+#DgsG# km@KILOMETRU`S@
+#DgsI# km@KILOME`TRAIS@
+#VnsV# mph@MYLIA` PER VA~LANDÀ@
+#VnsK# mph@MY~LIOS PER VA~LANDÀ@
+#VnsN# mph@MY~LIAI PER VA~LANDÀ@
+#VnsG# mph@MY~LIÀ PER VA~LANDÀ@
+#VnsI# mph@MYLIA` PER VA~LANDÀ@
+#DgsV# mph@MY~LIOS PER VA~LANDÀ@
+#DgsK# mph@MY~LIØ PER VA~LANDÀ@
+#DgsN# mph@MY~LIOMS PER VA~LANDÀ@
+#DgsG# mph@MYLIA`S PER VA~LANDÀ@
+#DgsI# mph@MY~LIOMIS PER VA~LANDÀ@
+#VnsV# prom.@PRO`MILË@
+#VnsK# prom.@PRO`MILËs@
+#VnsN# prom.@PRO`MILEI@
+#VnsG# prom.@PRO`MILÆ@
+#VnsI# prom.@PRO`MILE@
+#DgsV# prom.@PRO`MILËS@
+#DgsK# prom.@PRO`MILÞIØ@
+#DgsN# prom.@PRO`MILËMS@
+#DgsG# prom.@PRO`MILES@
+#DgsI# prom.@PRO`MILËMIS@
+#VnsV# sek.@SEKU^NDË@
+#VnsK# sek.@SEKU^NDËs@
+#VnsN# sek.@SEKU^NDEI@
+#VnsG# sek.@SEKU^NDÆ@
+#VnsI# sek.@SEKU^NDE@
+#DgsV# sek.@SEKU^NDËS@
+#DgsK# sek.@SEKU^NDÞIØ@
+#DgsN# sek.@SEKU^NDËMS@
+#DgsG# sek.@SEKU^NDES@
+#DgsI# sek.@SEKU^NDËMIS@
+#VnsV# s@SEKU^NDË@
+#VnsK# s@SEKU^NDËs@
+#VnsN# s@SEKU^NDEI@
+#VnsG# s@SEKU^NDÆ@
+#VnsI# s@SEKU^NDE@
+#DgsV# s@SEKU^NDËS@
+#DgsK# s@SEKU^NDÞIØ@
+#DgsN# s@SEKU^NDËMS@
+#DgsG# s@SEKU^NDES@
+#DgsI# s@SEKU^NDËMIS@
+#VnsV# ms@MILISEKU^NDË@
+#VnsK# ms@MILISEKU^NDËs@
+#VnsN# ms@MILISEKU^NDEI@
+#VnsG# ms@MILISEKU^NDÆ@
+#VnsI# ms@MILISEKU^NDE@
+#DgsV# ms@MILISEKU^NDËS@
+#DgsK# ms@MILISEKU^NDÞIØ@
+#DgsN# ms@MILISEKU^NDËMS@
+#DgsG# ms@MILISEKU^NDES@
+#DgsI# ms@MILISEKU^NDËMIS@
+#VnsV# min.@MINU`TË@
+#VnsK# min.@MINU`TËs@
+#VnsN# min.@MINU`TEI@
+#VnsG# min.@MINU`TÆ@
+#VnsI# min.@MINUTE`@
+#DgsV# min.@MINU`TËS@
+#DgsK# min.@MINU`ÈIØ@
+#DgsN# min.@MINU`TËMS@
+#DgsG# min.@MINUTE`S@
+#DgsI# min.@MINU`TËMIS@
+#VnsV# val.@VALANDA`@
+#VnsK# val.@VALANDO~s@
+#VnsN# val.@VA~LANDAI@
+#VnsG# val.@VA~LANDÀ@
+#VnsI# val.@VA~LANDA@
+#DgsV# val.@VA~LANDOS@
+#DgsK# val.@VALANDØ~@
+#DgsN# val.@VALANDO^MS@
+#DgsG# val.@VA~LANDAS@
+#DgsI# val.@VALANDOMI`S@
+#VnsV# d.@DIENA`@
+#VnsK# d.@DIENO~s@
+#VnsN# d.@DIE~NAI@
+#VnsG# d.@DIE~NÀ@
+#VnsI# d.@DIENA`@
+#DgsV# d.@DIE~NOS@
+#DgsK# d.@DIENØ~@
+#DgsN# d.@DIENO^MS@
+#DgsG# d.@DIENA`S@
+#DgsI# d.@DIENOMI`S@
+#VnsV# h@VALANDA`@
+#VnsK# h@VALANDO~s@
+#VnsN# h@VA~LANDAI@
+#VnsG# h@VA~LANDÀ@
+#VnsI# h@VA~LANDA@
+#DgsV# h@VA~LANDOS@
+#DgsK# h@VALANDØ~@
+#DgsN# h@VALANDO^MS@
+#DgsG# h@VA~LANDAS@
+#DgsI# h@VALANDOMI`S@
+#VnsV# proc.@PRO`CENTAS@
+#VnsK# proc.@PRO`CENTO@
+#VnsN# proc.@PRO`CENTUI@
+#VnsG# proc.@PRO`CENTÀ@
+#VnsI# proc.@PRO`CENTU@
+#DgsV# proc.@PRO`CENTAI@
+#DgsK# proc.@PRO`CENTØ@
+#DgsN# proc.@PRO`CENTAMS@
+#DgsG# proc.@PRO`CENTUS@
+#DgsI# proc.@PRO`CENTAIS@
+#VnsV# %@PRO`CENTAS@
+#VnsK# %@PRO`CENTO@
+#VnsN# %@PRO`CENTUI@
+#VnsG# %@PRO`CENTÀ@
+#VnsI# %@PRO`CENTU@
+#DgsV# %@PRO`CENTAI@
+#DgsK# %@PRO`CENTØ@
+#DgsN# %@PRO`CENTAMS@
+#DgsG# %@PRO`CENTUS@
+#DgsI# %@PRO`CENTAIS@
+#VnsV# $@DO^LERIS@
+#VnsK# $@DO^LERIO@
+#VnsN# $@DO^LERIUI@
+#VnsG# $@DO^LERÁ@
+#VnsI# $@DO^LERIU@
+#DgsV# $@DO^LERIAI@
+#DgsK# $@DO^LERIØ@
+#DgsN# $@DO^LERIAMS@
+#DgsG# $@DO^LERIUS@
+#DgsI# $@DO^LERIAIS@
+#VnsV# €@EU~RAS@
+#VnsK# €@EU~RO@
+#VnsN# €@EU~RUI@
+#VnsG# €@EU~RÀ@
+#VnsI# €@EURU`@
+#DgsV# €@EU~RAI@
+#DgsK# €@EU~RØ@
+#DgsN# €@EU~RAMS@
+#DgsG# €@EURU`S@
+#DgsI# €@EU~RAIS@
+#VnsV# £@SVA~RAS@
+#VnsK# £@SVA~RO@
+#VnsN# £@SVA~RUI@
+#VnsG# £@SVA~RÀ@
+#VnsI# £@SVARU`@
+#DgsV# £@SVA~RAI@
+#DgsK# £@SVA~RØ@
+#DgsN# £@SVA~RAMS@
+#DgsG# £@SVARU`S@
+#DgsI# £@SVA~RAIS@
+#VnsV# Lt@LI`TAS@
+#VnsK# Lt@LI`TO@
+#VnsN# Lt@LI`TUI@
+#VnsG# Lt@LI`TÀ@
+#VnsI# Lt@LITU`@
+#DgsV# Lt@LI`TAI@
+#DgsK# Lt@LI`TØ@
+#DgsN# Lt@LI`TAMS@
+#DgsG# Lt@LITU`S@
+#DgsI# Lt@LI`TAIS@
+#VnsV# ct@CEN~TAS@
+#VnsK# ct@CEN~TO@
+#VnsN# ct@CEN~TUI@
+#VnsG# ct@CEN~TÀ@
+#VnsI# ct@CENTU`@
+#DgsV# ct@CEN~TAI@
+#DgsK# ct@CEN~TØ@
+#DgsN# ct@CEN~TAMS@
+#DgsG# ct@CENTU`S@
+#DgsI# ct@CEN~TAIS@
+#VnsV# g@GRA~MAS@
+#VnsK# g@GRA~MO@
+#VnsN# g@GRA~MUI@
+#VnsG# g@GRA~MÀ@
+#VnsI# g@GRAMU`@
+#DgsV# g@GRA~MAI@
+#DgsK# g@GRA~MØ@
+#DgsN# g@GRA~MAMS@
+#DgsG# g@GRAMU`S@
+#DgsI# g@GRA~MAIS@
+#VnsV# kg@KILOGRA~MAS@
+#VnsK# kg@KILOGRA~MO@
+#VnsN# kg@KILOGRA~MUI@
+#VnsG# kg@KILOGRA~MÀ@
+#VnsI# kg@KILOGRAMU`@
+#DgsV# kg@KILOGRA~MAI@
+#DgsK# kg@KILOGRA~MØ@
+#DgsN# kg@KILOGRA~MAMS@
+#DgsG# kg@KILOGRAMU`S@
+#DgsI# kg@KILOGRA~MAIS@
+#VnsV# cnt@CEN~TNERIS@
+#VnsK# cnt@CEN~TNERIO@
+#VnsN# cnt@CEN~TNERIUI@
+#VnsG# cnt@CEN~TNERÁ@
+#VnsI# cnt@CEN~TNERIU@
+#DgsV# cnt@CEN~TNERIAI@
+#DgsK# cnt@CEN~TNERIØ@
+#DgsN# cnt@CEN~TNERIAMS@
+#DgsG# cnt@CEN~TNERIUS@
+#DgsI# cnt@CEN~TNERIAIS@
+#VnsV# t@TONA@
+#VnsK# t@TO`NOS@
+#VnsN# t@TO`NAI@
+#VnsG# t@TO`NÀ@
+#VnsI# t@TONA@
+#DgsV# t@TO`NOS@
+#DgsK# t@TO`NØ@
+#DgsN# t@TO`NOMS@
+#DgsG# t@TONAS@
+#DgsI# t@TO`NOMIS@
+#VnsV# °@LA^IPSNIS@
+#VnsK# °@LA^IPSNIO@
+#VnsN# °@LA^IPSNIUI@
+#VnsG# °@LA^IPSNÁ@
+#VnsI# °@LA^IPSNIU@
+#DgsV# °@LA^IPSNIAI@
+#DgsK# °@LA^IPSNIØ@
+#DgsN# °@LA^IPSNIAMS@
+#DgsG# °@LA^IPSNIUS@
+#DgsI# °@LA^IPSNIAIS@
+#VnsV# mln.@MILIJO~NAS@
+#VnsK# mln.@MILIJO~NO@
+#VnsN# mln.@MILIJO~NUI@
+#VnsG# mln.@MILIJO~NÀ@
+#VnsI# mln.@MILIJO~NU@
+#DgsV# mln.@MILIJO~NAI@
+#DgsK# mln.@MILIJO~NØ@
+#DgsN# mln.@MILIJO~NAMS@
+#DgsG# mln.@MILIJO~NUS@
+#DgsI# mln.@MILIJO~NAIS@
+#VnsV# trln.@TRILIJO~NAS@
+#VnsK# trln.@TRILIJO~NO@
+#VnsN# trln.@TRILIJO~NUI@
+#VnsG# trln.@TRILIJO~NÀ@
+#VnsI# trln.@TRILIJO~NU@
+#DgsV# trln.@TRILIJO~NAI@
+#DgsK# trln.@TRILIJO~NØ@
+#DgsN# trln.@TRILIJO~NAMS@
+#DgsG# trln.@TRILIJO~NUS@
+#DgsI# trln.@TRILIJO~NAIS@
+#VnsV# mlrd.@MILIJA^RDAS@
+#VnsK# mlrd.@MILIJA^RDO@
+#VnsN# mlrd.@MILIJA^RDUI@
+#VnsG# mlrd.@MILIJA^RDÀ@
+#VnsI# mlrd.@MILIJA^RDU@
+#DgsV# mlrd.@MILIJA^RDAI@
+#DgsK# mlrd.@MILIJA^RDØ@
+#DgsN# mlrd.@MILIJA^RDAMS@
+#DgsG# mlrd.@MILIJA^RDUS@
+#DgsI# mlrd.@MILIJA^RDAIS@
+#VnsV# tûkst.@TÛ^KSTANTIS@
+#VnsK# tûkst.@TÛ^KSTANÈIO@
+#VnsN# tûkst.@TÛ^KSTANÈIUI@
+#VnsG# tûkst.@TÛ^KSTANTÁ@
+#VnsI# tûkst.@TÛ^KSTANÈIU@
+#DgsV# tûkst.@TÛ^KSTANÈIAI@
+#DgsK# tûkst.@TÛ^KSTANÈIØ@
+#DgsN# tûkst.@TÛ^KSTANÈIAMS@
+#DgsG# tûkst.@TÛ^KSTANÈIUS@
+#DgsI# tûkst.@TÛ^KSTANÈIAIS@
+#VnsV# dB@DECIBELAS@
+#VnsK# dB@DECIBELO@
+#VnsN# dB@DECIBELUI@
+#VnsG# dB@DECIBELÀ@
+#VnsI# dB@DECIBELU@
+#DgsV# dB@DECIBELAI@
+#DgsK# dB@DECIBELØ@
+#DgsN# dB@DECIBELAMS@
+#DgsG# dB@DECIBELUS@
+#DgsI# dB@DECIBELAIS@

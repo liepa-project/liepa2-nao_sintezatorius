@@ -4,13 +4,6 @@ project(liepaTTS)
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -w")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -w")
 
-list(APPEND CMAKE_MODULE_PATH "$ENV{HOME}/myWorktree/ctc-linux64-atom-2.8.6.23-20191127_161825/yocto-sdk/share/cmake")
-link_directories($ENV{HOME}/myWorktree/ctc-linux64-atom-2.8.6.23-20191127_161825/yocto-sdk/sysroots/core2-32-sbr-linux/usr/lib)
-
-SET(ALCOMMON_DIR "$ENV{HOME}/myWorktree/naoqi-sdk-2.8.5.10-linux64/share/cmake/alcommon/")
-SET(BOOST_SIGNALS_INCLUDE_DIRS "$ENV{HOME}/myWorktree/naoqi-sdk-2.8.5.10-linux64/include/boost")
-SET(QI_DIR "$ENV{HOME}/myWorktree/ctc-linux64-atom-2.8.6.23-20191127_161825/qi-framework/share/cmake/qi/")
-
 find_package(qibuild)
 find_package(ALCOMMON)
 find_package(BOOST)
@@ -54,8 +47,8 @@ set(_srcs_sint
 qi_create_lib(transcr_sint_LUSS STATIC ${_srcs_sint})
 
 set(_srcs
-    src/pijausmodule.cpp
-    src/pijausmodule.h
+    src/liepaTTS.cpp
+    src/liepaTTS.h
     src/LithUSS.h
     src/main.cpp)
 
